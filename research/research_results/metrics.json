@@ -1,0 +1,21 @@
+{
+    "loss_convergence": {
+        "final_loss": 2.927082101504008,
+        "convergence_rate": 0.11065891583760581,
+        "stability": 0.34548420345267095
+    },
+    "resonance_analysis": {
+        "mean_resonance": null,
+        "resonance_stability": null,
+        "pattern_correlation": 0.0
+    },
+    "attention_analysis": {
+        "attention_entropy": 0.0,
+        "attention_sparsity": 0.0
+    },
+    "efficiency_metrics": {
+        "mean_inference_time": null,
+        "memory_efficiency": {},
+        "parameter_utilization": {}
+    }
+}
